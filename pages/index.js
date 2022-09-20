@@ -8,7 +8,7 @@ export default function Home() {
         <title>Ricardo Pajarito</title>
         <meta name="description" content="A portfolio of my projects" />
         <link rel="icon" href="/maletin.ico" />
-      </Head> 
+      </Head>  
 
       
 
