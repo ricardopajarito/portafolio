@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head> 
-        <title>Ricardo Pajarito</title>
+        <title>Ricardo Pajarito, portfolio nextjs</title>
         <meta name="description" content="A portfolio of my projects" />
         <link rel="icon" href="/maletin.ico" />
       </Head>  
